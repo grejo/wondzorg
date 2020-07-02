@@ -1062,3 +1062,15 @@ section.lazy-placeholder:after {
   font-size: 60px;
   color: #777;
 }
+#custom-html-8 {
+  /* Type valid CSS here */
+}
+#custom-html-8 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-8 p {
+  font-size: 60px;
+  color: #777;
+}
