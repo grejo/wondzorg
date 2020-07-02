@@ -48,7 +48,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "4.12.2",
     "screenshot": "screenshot.png"
   },
@@ -520,6 +520,20 @@
           ],
           "_name": "pro.custom-html",
           "_anchor": "custom-html-4",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<iframe id=\"kaltura_player\" src=\"https://cdnapisec.kaltura.com/p/2240091/sp/224009100/embedIframeJs/uiconf_id/37992381/partner_id/2240091?iframeembed=true&amp;playerId=kaltura_player&amp;entry_id=1_uiurvclw&amp;flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&amp;wid=1_bi8h2rdf\" width=\"608\" height=\"402\" allowfullscreen=\"\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allow=\"autoplay *; fullscreen *; encrypted-media *\" sandbox=\"allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation\" frameborder=\"0\" title=\"Kaltura Player\"></iframe>\n\n<iframe id=\"kaltura_player\" src=\"https://cdnapisec.kaltura.com/p/2240091/sp/224009100/embedIframeJs/uiconf_id/37992381/partner_id/2240091?iframeembed=true&amp;playerId=kaltura_player&amp;entry_id=1_hup0b1s3&amp;flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[leadWithHTML5]=true&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&amp;wid=1_n7lq7ufy\" width=\"608\" height=\"402\" allowfullscreen=\"\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allow=\"autoplay *; fullscreen *; encrypted-media *\" sandbox=\"allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation\" frameborder=\"0\" title=\"Kaltura Player\"></iframe>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-7",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         }
